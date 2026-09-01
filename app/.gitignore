@@ -1,0 +1,4 @@
+/build
+
+# Firebase config is generated per project and must not be committed
+google-services.json
